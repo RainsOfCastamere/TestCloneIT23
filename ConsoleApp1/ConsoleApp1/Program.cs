@@ -10,5 +10,5 @@ Console.WriteLine("My Name is...");
 
 
 
-Console.WriteLine("I bins da Mo");
+Console.WriteLine("I bins da Moritz und i bin a bisl dumm");
 Console.WriteLine("");
