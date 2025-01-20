@@ -2,6 +2,7 @@
 Console.WriteLine("Hello, IT23!");
 Console.WriteLine("");
 
+Console.WriteLine("WIe stehts?");
 
 
 
@@ -9,6 +10,5 @@ Console.WriteLine("");
 
 
 
-
-
+Console.WriteLine("I bins da Moritz und mir geht´s guad wie rennts mid de Noten");
 Console.WriteLine("");
